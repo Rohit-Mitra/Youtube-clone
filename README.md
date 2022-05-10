@@ -1,2 +1,2 @@
 # Youtube-clone
-[https://rohit-mitra.github.io/Youtube-clone/](url) <- link to access the website
+You can see the website [here](https://rohit-mitra.github.io/Youtube-clone/).
